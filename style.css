@@ -69,7 +69,14 @@ body {
     margin: 10px 0;
     text-align: center;
 }
-
+.section-title2 {
+    font-family: "Inter", serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #e55720;
+    margin: 10px 0;
+    text-align: center;
+}
 /* Contenedores de entrada y botón */
 .input-wrapper {
     display: flex;
